@@ -208,7 +208,7 @@ to restore data and configuration that is inside fixtures folder ``frappe-bench/
 
 **``bench set-config config_name config_value``**
 
-to set config like ``bench set-config developer_mode 1`` or ``bench set-config server_script_enabled true```
+to set config like ``bench set-config developer_mode 1`` or ``bench set-config server_script_enabled true``
 
 you can use ``-g`` to set globally
 
