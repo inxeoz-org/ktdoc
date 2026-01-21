@@ -120,6 +120,8 @@ https://learn.microsoft.com/en-us/windows/wsl/install
 
 ### Basic Bench Commands
 
+#### Run these commands from within the prob directory (you can execute them from a nested subdirectory, as long as one of the parent directories is prob).
+
 ---
 
 **```bench init bench_name```**
